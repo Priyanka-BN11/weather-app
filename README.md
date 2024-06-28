@@ -14,6 +14,7 @@ This is a simple weather application that fetches and displays the current tempe
 - HTML
 - CSS
 - JavaScript
+- Node js
 - Fetch API
 - OpenWeatherMap API
 

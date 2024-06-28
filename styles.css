@@ -1,10 +1,8 @@
-
-
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 20px;
-    background-color: lightpink;
+    background-color: lightblue; /* Add this line to change the background color */
 }
 
 #weather {
@@ -15,4 +13,16 @@ body {
 #weather-icon {
     width: 100px;
     height: 100px;
+}
+
+#city-input {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#get-weather {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
 }

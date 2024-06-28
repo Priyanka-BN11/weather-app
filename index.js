@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-   let apiKey = 'ea712579bc237cf2d06efae53a72fb35';
+   let apiKey = 'your-api-key-here';
    let weatherElement = document.getElementById('weather');
    let weatherIcon = document.getElementById('weather-icon');
    let cityInput = document.getElementById('city-input');
